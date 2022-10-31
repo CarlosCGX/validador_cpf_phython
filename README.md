@@ -1,2 +1,2 @@
-# validador_cpf_phython
-Validador de CPF com identificador do estado emitente do documento.
+# Validador_CPF_Phython
+Código Phython que valida CPF e informa o estado emitente do documento.
